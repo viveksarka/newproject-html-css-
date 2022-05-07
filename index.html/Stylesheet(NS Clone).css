@@ -1,0 +1,148 @@
+.NavBar{
+    Display:flex;
+    justify-content:center;
+    width:100%;
+    background-color:white;
+    top:0%;
+    position:fixed;
+    height:90px;
+}
+.tb{
+    margin-left:10px;
+    justify-content:center;
+}
+button:hover{
+    color:blue;
+}
+table{
+    width:100%;
+}
+img{
+    width:28px;
+}
+button{
+    border:none;
+    font-size:x-large;
+    font-weight:bold;
+    color:rgba(0,0,0,.5);
+    background-color:white;
+    margin:15px;
+}
+
+.container1{
+    width:100%;
+    height:580px;
+    background-color:rgb(59, 59, 141);
+    Display:flex;
+    justify-content:center;
+}
+.one{
+    width:500px;
+    text-align:center;
+    color:white;
+    font-size:x-large;
+    padding-top:150px;
+}
+.two{
+    width:50%;
+    Display:flex;
+    justify-content:center;
+    align-items:center;
+    Direction:rtl;
+}
+#workingM{
+    height:70%;
+    width:60%;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left:150px;
+}
+#b1{
+    background-color:yellow;
+    height:40px;
+    border-radius:10px;
+}
+
+.heading{
+    Display:flex;
+    justify-content:center;
+    margin-top:35px;
+    font-size:xx-large;
+}
+#highL{
+    font-weight:bold;
+}
+
+.container2{
+    width:100%;
+}
+#img1{
+    width:100%;
+    height:400px;
+}
+
+.container3{
+    Display:flex;
+    justify-content:center;
+    width:100%;
+    height:400px;
+    margin-top:50px;
+    background-color:rgb(59,59,141);
+}
+.child3-1{
+    Display:flex;
+    justify-content:center;
+    width:500px;
+    height:200px;
+    margin-left:50px;
+}
+.child3-2{
+    width:500px;
+    text-align:center;
+    color:white;
+    font-size:xx-large;
+}
+#img2{
+    width:500px;
+    height:350px;
+    margin-top:20px;
+    margin-left:0px;
+    margin-right:30px;
+}
+
+.footer{
+    margin-top:30px;
+    width:100%;
+    height:250px;
+    background-color:white;
+    Display:flex;
+    justify-content:center;
+}
+.footer1{
+    margin-right:20px;
+}
+#highL2{
+    margin-left:10px;
+    font-size:xx-large;
+    font-weight:bold;
+}
+.para{
+    color:black;
+    font-size:17px;
+}
+.footer2{
+    margin-left:30px;
+}
+
+.container4{
+    width:100%;
+    height:200px;
+}
+.first{
+    Display:flex;
+    justify-content:center;
+}
+#img4{
+    width:150px;
+    height:70px;
+}
